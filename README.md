@@ -18,8 +18,8 @@ I am passionate about **AI, data analysis, and backend development**.
 ## 🔧 Tech Stack  
 - **Backend:** Java, Spring Boot, REST API  
 - **Database:** MySQL, MongoDB  
-- **Cloud & DevOps:** Docker, AWS (EC2, S3)  
-- **AI & Data Analysis:** OpenAI API, Python (Pandas, NumPy)  
+- **Cloud & DevOps:** Docker, AWS
+- **AI & Data Analysis:** OpenAI API, Python  
 
 ## 📜 Certifications  
 - **SQL Developer (SQLD)**  
