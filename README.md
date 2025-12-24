@@ -29,7 +29,8 @@
 ## 🚀 Featured Projects
 
 ### 🏆 [CueCode] AI-based Sign Language Communication Platform
-> **2025 Seoul SAC Hackathon Grand Prize (대상)** > *Role: DevOps & Backend Lead*
+> **2025 Seoul Sprout(Sesac) Hackathon Grand Prize (대상)** 🥇
+> *Role: DevOps & Backend Lead*
 
 **MSA based Real-time Communication Service** on Kubernetes(AKS).
 - **Stability:** Solved WebSocket session loss issue by redesigning **Header Propagation** logic in API Gateway, achieving 100% connection stability.
@@ -45,7 +46,8 @@
 - **Automation:** Automated budget adjustment based on inflation rates (CPI) using **Spring Cloud OpenFeign** and BOK API.
 
 ### 🗺️ [JeonnamWatta] Travel Recommendation Service
-> **2025 Public Data Hackathon Award (장려상)** > *Role: Backend & Data Engineer*
+> **2025 Jeollanam-do Public Big Data Contest Participation Prize (장려상)** 🥉
+> *Role: Backend & Data Engineer*
 
 **ETL Pipeline** for heterogeneous travel data integration.
 - **Data Engineering:** Built an automated ETL pipeline to integrate XML, JSON, and CSV data using **Adapter Pattern**.
@@ -53,15 +55,21 @@
 
 <br/>
 
-## 📜 Certifications
-- **정보처리산업기사 (Industrial Engineer Information Processing)** | 2024.09
-- **SQLD (SQL Developer)** | 2023.04
-- **K-PaaS Expert Training Completion** | 2025.09
+## 🏅 Honors & Certifications
+
+### Awards
+- **2025 Seoul Sprout(Sesac) Hackathon Grand Prize (대상)** | *Seoul Metropolitan Government* (2025.12)
+- **2025 Public Big Data Idea Contest Participation Prize (장려상)** | *Jeonnam Information & Culture Industry Promotion Agency* (2025.09)
+
+### Certifications & Training
+- **K-PaaS Expert Training Completion (전문가 교육 수료)** | *Open Cloud Platform Center* (2025.09)
+- **Industrial Engineer Information Processing (정보처리산업기사)** | *HRD Korea* (2024.09)
+- **SQLD (SQL Developer)** | *Korea Data Agency* (2023.04)
 
 <br/>
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=gotham" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=gotham" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kkdo11&show_icons=true&theme=gotham" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkdo11&layout=compact&theme=gotham" height="150" alt="languages graph" />
 </div>
