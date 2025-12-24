@@ -5,8 +5,8 @@
 시스템의 동작 원리(Fundamentals)를 탐구하여 본질적인 문제를 해결하는 것을 즐깁니다.
 **Cloud Native** 환경에서의 안정적인 서비스 운영과 **Data Integrity**(데이터 무결성)를 최우선 가치로 삼습니다.
 
-- 🔭 **Focus:** Java, Spring Boot, Kubernetes, MSA, System Architecture
-- 🌱 **Interested In:** High Traffic Handling, WebSocket Stability, Polyglot Persistence
+- 🔭 **Focus:** Java, Spring Boot, Kubernetes, MSA
+- 🌱 **Interested In:**  WebSocket Stability, Polyglot Persistence, AI
 - 📧 **Contact:** kdw030612@gmail.com
 
 <br/>
