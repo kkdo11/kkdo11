@@ -68,8 +68,3 @@
 
 <br/>
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkdo11&show_icons=true&theme=gotham" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkdo11&layout=compact&theme=gotham" height="150" alt="languages graph" />
-</div>
